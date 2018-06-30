@@ -26,7 +26,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 （1）熟知npm的使用，学会如何熟练的安装模块包
 （2）掌握node.js在web中的使用。
 （3）学会利用vue中的板块样式
-（4）了解webpack【1】
+（4）了解webpack
 （5）掌握模块化和组件的使用
 ```
 ## 设计任务
